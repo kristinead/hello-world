@@ -1,2 +1,4 @@
 # hello-world
-Hemsida för Synliggörande av ett grönt energisystem
+Projekt för en hemsida i kandidatarbetet "Synliggörande av ett grönt energisystem".
+Är riktigt jävla okunnig i kodning woop woop 
+
